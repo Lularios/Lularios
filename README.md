@@ -1,9 +1,11 @@
 ## Hi there, I'm Luciana.👋
 - :space_invader: I'm a Full Stack developer
-- 🔭 I’m currently working on finance, as a accounts analyst
+- :woman_office_worker: At the moment I'm working in finance, as an accounts analyst
 - 🌱 I’m currently learning UX/UI Design 
-- 👯 I’m looking to collaborate on a proyect that allows me to continue learning
-- 📫 How to reach me: rios.luciana@outlook.com / www.linkedin.com/in/lucianagrios
-- ⚡ Stacks: 
+- 👯 I want to collaborate on a project that allows me to grow
+- ⚡ I know how to work with HTML5, CSS3, JS, TS, Git/GitHub, React JS, Angular, Node JS, Bootstrap, Postman, MongoDB.
+- 📫 How to reach me: rios.luciana@outlook.com
+- :globe_with_meridians: My LinkedIn profile is www.linkedin.com/in/lucianagrios
+
 
 
