@@ -7,5 +7,5 @@
 - 📫 How to reach me: rios.luciana@outlook.com
 - :globe_with_meridians: My LinkedIn profile is www.linkedin.com/in/lucianagrios
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
